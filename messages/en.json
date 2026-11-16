@@ -1,22 +1,49 @@
 {
   "nav": {
-    "home": "Home", "servizi": "Services", "personale": "Our staff",
-    "qualita": "Quality", "iniziative": "Activities", "contatti": "Contact",
-    "trasparenza": "Transparency", "ammissione": "Admission", "visite": "Visiting hours",
-    "lavora": "Careers", "reclami": "Complaints", "privacy": "Privacy", "cookie": "Cookies",
-    "menu": "Menu", "close": "Close", "call": "Call", "skip": "Skip to content"
+    "home": "Home",
+    "servizi": "Services",
+    "personale": "Our staff",
+    "qualita": "Quality",
+    "iniziative": "Activities",
+    "contatti": "Contact",
+    "trasparenza": "Transparency",
+    "ammissione": "Admission",
+    "visite": "Visiting hours",
+    "lavora": "Careers",
+    "reclami": "Complaints",
+    "privacy": "Privacy",
+    "cookie": "Cookies",
+    "menu": "Menu",
+    "close": "Close",
+    "call": "Call",
+    "skip": "Skip to content"
   },
-  "footer": { "vat": "VAT" },
+  "footer": {
+    "vat": "VAT"
+  },
   "placeholder": "Content coming soon.",
-  "cta": { "title": "Would you like to know us better?", "text": "Call or write to us: we will explain how admission works and arrange a visit to the residence.", "button": "Contact us" },
+  "cta": {
+    "title": "Would you like to know us better?",
+    "text": "Call or write to us: we will explain how admission works and arrange a visit to the residence.",
+    "button": "Contact us"
+  },
   "home": {
     "eyebrow": "Care home for the elderly in Maida (CZ), Italy",
     "title": "Care, attention and a home where you feel welcome",
     "intro": "We are a social and healthcare residence for older people who are partially or fully dependent, or living with cognitive decline. Every day we combine qualified healthcare with hospitality services designed for well-being.",
     "cards": [
-      { "title": "Healthcare", "text": "Medical and nursing care, rehabilitation and psychological support." },
-      { "title": "Hospitality", "text": "Personalised menus, laundry service and hairdresser." },
-      { "title": "Social activities", "text": "Activities and time together to keep interests and relationships alive." }
+      {
+        "title": "Healthcare",
+        "text": "Medical and nursing care, rehabilitation and psychological support."
+      },
+      {
+        "title": "Hospitality",
+        "text": "Personalised menus, laundry service and hairdresser."
+      },
+      {
+        "title": "Social activities",
+        "text": "Activities and time together to keep interests and relationships alive."
+      }
     ],
     "more": "Discover our services",
     "qualityTitle": "Certified quality",
@@ -27,44 +54,110 @@
     "title": "Services",
     "intro": "Complete care, both medical and residential, organised around the needs of each resident.",
     "sections": [
-      { "heading": "Healthcare and rehabilitation", "items": [
-        { "title": "Medical care", "text": "Health monitoring under the responsibility of the medical director." },
-        { "title": "Nursing care", "text": "Therapies, dressings and daily checks, day and night." },
-        { "title": "Rehabilitation", "text": "Physiotherapy programmes to maintain and regain independence." },
-        { "title": "Psychological support", "text": "Listening and support for residents and their families." }
-      ] },
-      { "heading": "Hospitality and activities", "items": [
-        { "title": "Meals", "text": "Menus tailored to individual needs, served at set times." },
-        { "title": "Laundry", "text": "Care of residents' linen and clothing." },
-        { "title": "Hairdresser", "text": "An in-house service to help residents look and feel their best." },
-        { "title": "Social activities", "text": "Group activities and social moments throughout the week." }
-      ] }
+      {
+        "heading": "Healthcare and rehabilitation",
+        "items": [
+          {
+            "title": "Medical care",
+            "text": "Health monitoring under the responsibility of the medical director."
+          },
+          {
+            "title": "Nursing care",
+            "text": "Therapies, dressings and daily checks, day and night."
+          },
+          {
+            "title": "Rehabilitation",
+            "text": "Physiotherapy programmes to maintain and regain independence."
+          },
+          {
+            "title": "Psychological support",
+            "text": "Listening and support for residents and their families."
+          }
+        ]
+      },
+      {
+        "heading": "Hospitality and activities",
+        "items": [
+          {
+            "title": "Meals",
+            "text": "Menus tailored to individual needs, served at set times."
+          },
+          {
+            "title": "Laundry",
+            "text": "Care of residents' linen and clothing."
+          },
+          {
+            "title": "Hairdresser",
+            "text": "An in-house service to help residents look and feel their best."
+          },
+          {
+            "title": "Social activities",
+            "text": "Group activities and social moments throughout the week."
+          }
+        ]
+      }
     ]
   },
   "personale": {
     "title": "Our staff",
     "intro": "A multidisciplinary team working together for the health and peace of mind of our residents.",
     "sections": [
-      { "heading": "Our professionals", "items": [
-        { "title": "Medical director", "text": "Responsible for healthcare organisation and the quality of care." },
-        { "title": "Nurses", "text": "Manage therapies, dressings and daily health monitoring." },
-        { "title": "Physiotherapists", "text": "Lead rehabilitation and help residents stay mobile." },
-        { "title": "Psychologist", "text": "Provides emotional support to residents and guidance to families." },
-        { "title": "Educators", "text": "Plan social activities and cognitive stimulation." },
-        { "title": "Social worker", "text": "Liaises with families and local services, and handles admission paperwork." },
-        { "title": "Care assistants (OSS)", "text": "Support residents in everyday life with care and respect." }
-      ] }
+      {
+        "heading": "Our professionals",
+        "items": [
+          {
+            "title": "Medical director",
+            "text": "Responsible for healthcare organisation and the quality of care."
+          },
+          {
+            "title": "Nurses",
+            "text": "Manage therapies, dressings and daily health monitoring."
+          },
+          {
+            "title": "Physiotherapists",
+            "text": "Lead rehabilitation and help residents stay mobile."
+          },
+          {
+            "title": "Psychologist",
+            "text": "Provides emotional support to residents and guidance to families."
+          },
+          {
+            "title": "Educators",
+            "text": "Plan social activities and cognitive stimulation."
+          },
+          {
+            "title": "Social worker",
+            "text": "Liaises with families and local services, and handles admission paperwork."
+          },
+          {
+            "title": "Care assistants (OSS)",
+            "text": "Support residents in everyday life with care and respect."
+          }
+        ]
+      }
     ]
   },
   "qualita": {
     "title": "Quality",
     "intro": "Quality of care is built on clear rules, regular checks and ongoing training.",
     "sections": [
-      { "heading": "Certifications and standards", "items": [
-        { "title": "UNI EN ISO 9001:2015", "text": "A quality management system that organises processes, audits and continuous improvement." },
-        { "title": "HACCP protocols", "text": "Food safety procedures applied throughout our catering." },
-        { "title": "Workplace safety", "text": "Organisation compliant with Legislative Decree 81/2008, protecting residents and staff." }
-      ] }
+      {
+        "heading": "Certifications and standards",
+        "items": [
+          {
+            "title": "UNI EN ISO 9001:2015",
+            "text": "A quality management system that organises processes, audits and continuous improvement."
+          },
+          {
+            "title": "HACCP protocols",
+            "text": "Food safety procedures applied throughout our catering."
+          },
+          {
+            "title": "Workplace safety",
+            "text": "Organisation compliant with Legislative Decree 81/2008, protecting residents and staff."
+          }
+        ]
+      }
     ],
     "note": "Our Service Charter will soon be available as a PDF on this page."
   },
@@ -72,11 +165,212 @@
     "title": "Admission",
     "intro": "There are two ways to be admitted. We are here to guide you through every step.",
     "sections": [
-      { "heading": "How to apply", "items": [
-        { "title": "Through the local health authority (ASP)", "text": "The application goes through the Provincial Health Authority, which manages the waiting list for subsidised places." },
-        { "title": "Directly with the residence (private)", "text": "The application is made directly to us, and we manage the related waiting list." }
-      ] }
+      {
+        "heading": "How to apply",
+        "items": [
+          {
+            "title": "Through the local health authority (ASP)",
+            "text": "The application goes through the Provincial Health Authority, which manages the waiting list for subsidised places."
+          },
+          {
+            "title": "Directly with the residence (private)",
+            "text": "The application is made directly to us, and we manage the related waiting list."
+          }
+        ]
+      }
     ],
     "note": "Contact us to find out which route suits you best and which documents are needed."
+  },
+  "iniziative": {
+    "title": "Activities",
+    "intro": "Celebrations, workshops and shared moments that shape life at the residence.",
+    "sections": [
+      {
+        "heading": "Upcoming activities",
+        "items": [
+          {
+            "title": "[Activity title]",
+            "text": "[Date] · [Short description, to be added by the residence]"
+          },
+          {
+            "title": "[Activity title]",
+            "text": "[Date] · [Short description, to be added by the residence]"
+          }
+        ]
+      }
+    ],
+    "note": "Activities will be updated directly by the residence."
+  },
+  "contatti": {
+    "title": "Contact",
+    "intro": "We are here for information, visits and admission enquiries.",
+    "sections": [
+      {
+        "heading": "Contact details",
+        "items": [
+          {
+            "title": "Address",
+            "text": "Contrada Vallini, 88025 Maida (CZ), Italy"
+          },
+          {
+            "title": "Phone",
+            "text": "+39 0968 754280"
+          },
+          {
+            "title": "Email",
+            "text": "casaprotettamaida@gmail.com"
+          },
+          {
+            "title": "Certified email (PEC)",
+            "text": "[PEC address to be confirmed]"
+          },
+          {
+            "title": "Office hours",
+            "text": "[Days and hours to be confirmed]"
+          }
+        ]
+      }
+    ],
+    "note": "[The contact form, visit request and map will appear here.]"
+  },
+  "trasparenza": {
+    "title": "Transparency",
+    "intro": "Documents and information about how the residence is organised.",
+    "sections": [
+      {
+        "heading": "Documents",
+        "items": [
+          {
+            "title": "Transparent administration",
+            "text": "[Documents to be published, PDF]"
+          },
+          {
+            "title": "Organisation chart",
+            "text": "[Organisation chart, PDF]"
+          },
+          {
+            "title": "Organisational model",
+            "text": "[Organisational model, PDF]"
+          },
+          {
+            "title": "Waiting lists",
+            "text": "[Waiting list information, updated periodically]"
+          }
+        ]
+      }
+    ]
+  },
+  "visite": {
+    "title": "Visiting hours",
+    "intro": "Family and friends are always welcome. For the peace of mind of all residents, we ask visitors to follow a few rules.",
+    "sections": [
+      {
+        "heading": "Hours and rules",
+        "items": [
+          {
+            "title": "Visiting hours",
+            "text": "[Time slots to be confirmed]"
+          },
+          {
+            "title": "Quiet hours",
+            "text": "[Rest times to be confirmed]"
+          },
+          {
+            "title": "House rules",
+            "text": "[Main rules for visitors, to be confirmed]"
+          }
+        ]
+      }
+    ]
+  },
+  "lavora": {
+    "title": "Careers",
+    "intro": "We are looking for people who want to care for others with professionalism and kindness.",
+    "sections": [
+      {
+        "heading": "Roles we look for",
+        "items": [
+          {
+            "title": "Nurses",
+            "text": "[Open positions to be confirmed]"
+          },
+          {
+            "title": "Care assistants (OSS)",
+            "text": "[Open positions to be confirmed]"
+          },
+          {
+            "title": "Open application",
+            "text": "You can send us your CV even if there are no open positions."
+          }
+        ]
+      }
+    ],
+    "note": "[The application form with CV upload will appear here.]"
+  },
+  "reclami": {
+    "title": "Complaints and feedback",
+    "intro": "Your feedback helps us improve. Every complaint is read and followed up.",
+    "sections": [
+      {
+        "heading": "How it works",
+        "items": [
+          {
+            "title": "Submitting",
+            "text": "You can use the form, send an email or hand it in at the residence."
+          },
+          {
+            "title": "Follow-up",
+            "text": "[Response times to be confirmed]"
+          }
+        ]
+      }
+    ],
+    "note": "[The feedback form will appear here.] Please do not include health information."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "intro": "Information on the processing of personal data under EU Regulation 2016/679 (GDPR).",
+    "sections": [
+      {
+        "heading": "Privacy notice",
+        "items": [
+          {
+            "title": "Data controller",
+            "text": "[To be confirmed]"
+          },
+          {
+            "title": "Data protection officer (DPO)",
+            "text": "[To be confirmed]"
+          },
+          {
+            "title": "Data collected and purposes",
+            "text": "[Text to be drafted with the residence's privacy advisor]"
+          },
+          {
+            "title": "Your rights",
+            "text": "[Text to be drafted with the residence's privacy advisor]"
+          }
+        ]
+      }
+    ]
+  },
+  "cookie": {
+    "title": "Cookies",
+    "intro": "Information about the cookies used on this website.",
+    "sections": [
+      {
+        "heading": "Cookie policy",
+        "items": [
+          {
+            "title": "Technical cookies",
+            "text": "[List to be completed]"
+          },
+          {
+            "title": "Third-party cookies",
+            "text": "[List to be completed, e.g. map]"
+          }
+        ]
+      }
+    ]
   }
 }

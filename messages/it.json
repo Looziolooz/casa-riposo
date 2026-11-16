@@ -1,22 +1,49 @@
 {
   "nav": {
-    "home": "Home", "servizi": "Servizi", "personale": "Il personale",
-    "qualita": "La qualità", "iniziative": "Le iniziative", "contatti": "Contatti",
-    "trasparenza": "Trasparenza", "ammissione": "Ammissione", "visite": "Orari di visita",
-    "lavora": "Lavora con noi", "reclami": "Reclami", "privacy": "Privacy", "cookie": "Cookie",
-    "menu": "Menu", "close": "Chiudi", "call": "Chiama", "skip": "Vai al contenuto"
+    "home": "Home",
+    "servizi": "Servizi",
+    "personale": "Il personale",
+    "qualita": "La qualità",
+    "iniziative": "Le iniziative",
+    "contatti": "Contatti",
+    "trasparenza": "Trasparenza",
+    "ammissione": "Ammissione",
+    "visite": "Orari di visita",
+    "lavora": "Lavora con noi",
+    "reclami": "Reclami",
+    "privacy": "Privacy",
+    "cookie": "Cookie",
+    "menu": "Menu",
+    "close": "Chiudi",
+    "call": "Chiama",
+    "skip": "Vai al contenuto"
   },
-  "footer": { "vat": "P.IVA" },
+  "footer": {
+    "vat": "P.IVA"
+  },
   "placeholder": "Contenuto in preparazione.",
-  "cta": { "title": "Vuoi conoscerci?", "text": "Chiamaci o scrivici: ti spieghiamo come funziona l'ingresso e organizziamo una visita della struttura.", "button": "Contattaci" },
+  "cta": {
+    "title": "Vuoi conoscerci?",
+    "text": "Chiamaci o scrivici: ti spieghiamo come funziona l'ingresso e organizziamo una visita della struttura.",
+    "button": "Contattaci"
+  },
   "home": {
     "eyebrow": "Residenza per anziani a Maida (CZ)",
     "title": "Cura, attenzione e una casa in cui sentirsi accolti",
     "intro": "Siamo una residenza socio-sanitaria per persone anziane parzialmente o totalmente non autosufficienti o con decadimento senile. Ogni giorno uniamo assistenza sanitaria qualificata e servizi alberghieri pensati per il benessere.",
     "cards": [
-      { "title": "Assistenza sanitaria", "text": "Assistenza medica e infermieristica, riabilitazione e supporto psicologico." },
-      { "title": "Servizi alberghieri", "text": "Ristorazione con menu personalizzati, lavanderia e parrucchiere." },
-      { "title": "Animazione sociale", "text": "Attività e momenti di relazione per mantenere vivi interessi e legami." }
+      {
+        "title": "Assistenza sanitaria",
+        "text": "Assistenza medica e infermieristica, riabilitazione e supporto psicologico."
+      },
+      {
+        "title": "Servizi alberghieri",
+        "text": "Ristorazione con menu personalizzati, lavanderia e parrucchiere."
+      },
+      {
+        "title": "Animazione sociale",
+        "text": "Attività e momenti di relazione per mantenere vivi interessi e legami."
+      }
     ],
     "more": "Scopri i servizi",
     "qualityTitle": "Qualità certificata",
@@ -27,44 +54,110 @@
     "title": "Servizi",
     "intro": "Un'assistenza completa, sanitaria e alberghiera, organizzata intorno ai bisogni di ogni ospite.",
     "sections": [
-      { "heading": "Prestazioni sanitarie e riabilitative", "items": [
-        { "title": "Assistenza medica", "text": "Monitoraggio dello stato di salute sotto la responsabilità del direttore sanitario." },
-        { "title": "Assistenza infermieristica", "text": "Terapie, medicazioni e controlli quotidiani, giorno e notte." },
-        { "title": "Riabilitazione", "text": "Percorsi di fisioterapia per mantenere e recuperare l'autonomia." },
-        { "title": "Supporto psicologico", "text": "Ascolto e sostegno per gli ospiti e per le loro famiglie." }
-      ] },
-      { "heading": "Servizi alberghieri e animazione", "items": [
-        { "title": "Ristorazione", "text": "Menu personalizzati secondo le esigenze di ciascuno, con orari strutturati." },
-        { "title": "Lavanderia", "text": "Cura della biancheria e degli indumenti degli ospiti." },
-        { "title": "Parrucchiere", "text": "Un servizio interno per sentirsi in ordine e a proprio agio." },
-        { "title": "Animazione sociale", "text": "Attività di gruppo e momenti di socialità durante la settimana." }
-      ] }
+      {
+        "heading": "Prestazioni sanitarie e riabilitative",
+        "items": [
+          {
+            "title": "Assistenza medica",
+            "text": "Monitoraggio dello stato di salute sotto la responsabilità del direttore sanitario."
+          },
+          {
+            "title": "Assistenza infermieristica",
+            "text": "Terapie, medicazioni e controlli quotidiani, giorno e notte."
+          },
+          {
+            "title": "Riabilitazione",
+            "text": "Percorsi di fisioterapia per mantenere e recuperare l'autonomia."
+          },
+          {
+            "title": "Supporto psicologico",
+            "text": "Ascolto e sostegno per gli ospiti e per le loro famiglie."
+          }
+        ]
+      },
+      {
+        "heading": "Servizi alberghieri e animazione",
+        "items": [
+          {
+            "title": "Ristorazione",
+            "text": "Menu personalizzati secondo le esigenze di ciascuno, con orari strutturati."
+          },
+          {
+            "title": "Lavanderia",
+            "text": "Cura della biancheria e degli indumenti degli ospiti."
+          },
+          {
+            "title": "Parrucchiere",
+            "text": "Un servizio interno per sentirsi in ordine e a proprio agio."
+          },
+          {
+            "title": "Animazione sociale",
+            "text": "Attività di gruppo e momenti di socialità durante la settimana."
+          }
+        ]
+      }
     ]
   },
   "personale": {
     "title": "Il personale",
     "intro": "Un'équipe multidisciplinare che lavora insieme per la salute e la serenità degli ospiti.",
     "sections": [
-      { "heading": "Le figure professionali", "items": [
-        { "title": "Direttore sanitario", "text": "È responsabile dell'organizzazione sanitaria e della qualità delle cure." },
-        { "title": "Infermieri", "text": "Gestiscono terapie, medicazioni e il monitoraggio quotidiano della salute." },
-        { "title": "Fisioterapisti", "text": "Seguono i percorsi di riabilitazione e il mantenimento della mobilità." },
-        { "title": "Psicologo", "text": "Offre sostegno emotivo agli ospiti e accompagna le famiglie." },
-        { "title": "Educatori", "text": "Progettano le attività di animazione e di stimolazione cognitiva." },
-        { "title": "Assistente sociale", "text": "Cura i rapporti con le famiglie, i servizi del territorio e le pratiche di ingresso." },
-        { "title": "Operatori socio-sanitari (OSS)", "text": "Assistono gli ospiti nella vita di tutti i giorni, con attenzione e rispetto." }
-      ] }
+      {
+        "heading": "Le figure professionali",
+        "items": [
+          {
+            "title": "Direttore sanitario",
+            "text": "È responsabile dell'organizzazione sanitaria e della qualità delle cure."
+          },
+          {
+            "title": "Infermieri",
+            "text": "Gestiscono terapie, medicazioni e il monitoraggio quotidiano della salute."
+          },
+          {
+            "title": "Fisioterapisti",
+            "text": "Seguono i percorsi di riabilitazione e il mantenimento della mobilità."
+          },
+          {
+            "title": "Psicologo",
+            "text": "Offre sostegno emotivo agli ospiti e accompagna le famiglie."
+          },
+          {
+            "title": "Educatori",
+            "text": "Progettano le attività di animazione e di stimolazione cognitiva."
+          },
+          {
+            "title": "Assistente sociale",
+            "text": "Cura i rapporti con le famiglie, i servizi del territorio e le pratiche di ingresso."
+          },
+          {
+            "title": "Operatori socio-sanitari (OSS)",
+            "text": "Assistono gli ospiti nella vita di tutti i giorni, con attenzione e rispetto."
+          }
+        ]
+      }
     ]
   },
   "qualita": {
     "title": "La qualità",
     "intro": "La qualità dell'assistenza si costruisce con regole chiare, controlli e formazione continua.",
     "sections": [
-      { "heading": "Certificazioni e standard", "items": [
-        { "title": "UNI EN ISO 9001:2015", "text": "Un sistema di gestione qualità che organizza processi, verifiche e miglioramento continuo." },
-        { "title": "Protocolli HACCP", "text": "Procedure di sicurezza alimentare applicate in tutta la ristorazione." },
-        { "title": "Sicurezza sul lavoro", "text": "Organizzazione conforme al D.Lgs. 81/2008, a tutela di ospiti e operatori." }
-      ] }
+      {
+        "heading": "Certificazioni e standard",
+        "items": [
+          {
+            "title": "UNI EN ISO 9001:2015",
+            "text": "Un sistema di gestione qualità che organizza processi, verifiche e miglioramento continuo."
+          },
+          {
+            "title": "Protocolli HACCP",
+            "text": "Procedure di sicurezza alimentare applicate in tutta la ristorazione."
+          },
+          {
+            "title": "Sicurezza sul lavoro",
+            "text": "Organizzazione conforme al D.Lgs. 81/2008, a tutela di ospiti e operatori."
+          }
+        ]
+      }
     ],
     "note": "La Carta dei Servizi sarà presto disponibile in PDF su questa pagina."
   },
@@ -72,11 +165,212 @@
     "title": "Ammissione",
     "intro": "L'ingresso in struttura può avvenire in due modi. Siamo a disposizione per accompagnarti in ogni passaggio.",
     "sections": [
-      { "heading": "Modalità di accesso", "items": [
-        { "title": "Tramite ASP (in convenzione)", "text": "La richiesta passa dall'Azienda Sanitaria Provinciale, che gestisce la lista d'attesa per i posti convenzionati." },
-        { "title": "Direttamente con la struttura (privato)", "text": "La richiesta si presenta direttamente a noi, che gestiamo la relativa lista d'attesa." }
-      ] }
+      {
+        "heading": "Modalità di accesso",
+        "items": [
+          {
+            "title": "Tramite ASP (in convenzione)",
+            "text": "La richiesta passa dall'Azienda Sanitaria Provinciale, che gestisce la lista d'attesa per i posti convenzionati."
+          },
+          {
+            "title": "Direttamente con la struttura (privato)",
+            "text": "La richiesta si presenta direttamente a noi, che gestiamo la relativa lista d'attesa."
+          }
+        ]
+      }
     ],
     "note": "Per sapere quale percorso è più adatto e quali documenti servono, contattaci."
+  },
+  "iniziative": {
+    "title": "Le iniziative",
+    "intro": "Feste, laboratori e momenti condivisi che scandiscono la vita della residenza.",
+    "sections": [
+      {
+        "heading": "Prossime iniziative",
+        "items": [
+          {
+            "title": "[Titolo iniziativa]",
+            "text": "[Data] · [Breve descrizione dell'evento, da inserire dalla struttura]"
+          },
+          {
+            "title": "[Titolo iniziativa]",
+            "text": "[Data] · [Breve descrizione dell'evento, da inserire dalla struttura]"
+          }
+        ]
+      }
+    ],
+    "note": "Le iniziative saranno aggiornate direttamente dalla struttura."
+  },
+  "contatti": {
+    "title": "Contatti",
+    "intro": "Per informazioni, visite e domande di ammissione siamo a tua disposizione.",
+    "sections": [
+      {
+        "heading": "Recapiti",
+        "items": [
+          {
+            "title": "Indirizzo",
+            "text": "Contrada Vallini, 88025 Maida (CZ)"
+          },
+          {
+            "title": "Telefono",
+            "text": "+39 0968 754280"
+          },
+          {
+            "title": "Email",
+            "text": "casaprotettamaida@gmail.com"
+          },
+          {
+            "title": "PEC",
+            "text": "[Indirizzo PEC da confermare]"
+          },
+          {
+            "title": "Orari della segreteria",
+            "text": "[Giorni e orari da confermare]"
+          }
+        ]
+      }
+    ],
+    "note": "[Qui arriveranno il modulo di contatto, la richiesta di visita e la mappa.]"
+  },
+  "trasparenza": {
+    "title": "Trasparenza",
+    "intro": "Documenti e informazioni sull'organizzazione della residenza.",
+    "sections": [
+      {
+        "heading": "Documenti",
+        "items": [
+          {
+            "title": "Amministrazione trasparente",
+            "text": "[Documenti da pubblicare, PDF]"
+          },
+          {
+            "title": "Organigramma",
+            "text": "[Organigramma della struttura, PDF]"
+          },
+          {
+            "title": "Modello organizzativo",
+            "text": "[Modello organizzativo, PDF]"
+          },
+          {
+            "title": "Liste d'attesa",
+            "text": "[Informazioni sulle liste d'attesa, aggiornate periodicamente]"
+          }
+        ]
+      }
+    ]
+  },
+  "visite": {
+    "title": "Orari di visita",
+    "intro": "Familiari e amici sono sempre benvenuti. Per la serenità di tutti gli ospiti chiediamo di rispettare alcune regole.",
+    "sections": [
+      {
+        "heading": "Orari e regole",
+        "items": [
+          {
+            "title": "Orari di ingresso",
+            "text": "[Fasce orarie da confermare]"
+          },
+          {
+            "title": "Fasce di silenzio",
+            "text": "[Orari di riposo da confermare]"
+          },
+          {
+            "title": "Regolamento interno",
+            "text": "[Regole principali per i visitatori, da confermare]"
+          }
+        ]
+      }
+    ]
+  },
+  "lavora": {
+    "title": "Lavora con noi",
+    "intro": "Cerchiamo persone che vogliano prendersi cura degli altri con professionalità e umanità.",
+    "sections": [
+      {
+        "heading": "Profili ricercati",
+        "items": [
+          {
+            "title": "Infermieri",
+            "text": "[Posizioni aperte da confermare]"
+          },
+          {
+            "title": "Operatori socio-sanitari (OSS)",
+            "text": "[Posizioni aperte da confermare]"
+          },
+          {
+            "title": "Candidatura spontanea",
+            "text": "Puoi inviarci il tuo CV anche se non ci sono posizioni aperte."
+          }
+        ]
+      }
+    ],
+    "note": "[Qui arriverà il modulo per inviare la candidatura con il CV.]"
+  },
+  "reclami": {
+    "title": "Reclami e segnalazioni",
+    "intro": "Le tue segnalazioni ci aiutano a migliorare. Ogni reclamo viene letto e preso in carico.",
+    "sections": [
+      {
+        "heading": "Come funziona",
+        "items": [
+          {
+            "title": "Invio",
+            "text": "Puoi inviare la segnalazione dal modulo, per email o consegnarla in struttura."
+          },
+          {
+            "title": "Presa in carico",
+            "text": "[Tempi di risposta da confermare]"
+          }
+        ]
+      }
+    ],
+    "note": "[Qui arriverà il modulo di segnalazione.] Non inserire informazioni sanitarie nella segnalazione."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "intro": "Informativa sul trattamento dei dati personali ai sensi del Regolamento UE 2016/679 (GDPR).",
+    "sections": [
+      {
+        "heading": "Informativa",
+        "items": [
+          {
+            "title": "Titolare del trattamento",
+            "text": "[Da confermare]"
+          },
+          {
+            "title": "Responsabile della protezione dei dati (DPO)",
+            "text": "[Da confermare]"
+          },
+          {
+            "title": "Dati raccolti e finalità",
+            "text": "[Testo da redigere con il consulente privacy della struttura]"
+          },
+          {
+            "title": "Diritti dell'interessato",
+            "text": "[Testo da redigere con il consulente privacy della struttura]"
+          }
+        ]
+      }
+    ]
+  },
+  "cookie": {
+    "title": "Cookie",
+    "intro": "Informazioni sui cookie utilizzati da questo sito.",
+    "sections": [
+      {
+        "heading": "Cookie policy",
+        "items": [
+          {
+            "title": "Cookie tecnici",
+            "text": "[Elenco da completare]"
+          },
+          {
+            "title": "Cookie di terze parti",
+            "text": "[Elenco da completare, es. mappa]"
+          }
+        ]
+      }
+    ]
   }
 }
