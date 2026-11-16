@@ -8,6 +8,7 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { CallButton } from "@/components/call-button";
 import { site } from "@/lib/site";
+import { nursingHomeJsonLd, siteUrl } from "@/lib/seo";
 import "../globals.css";
 
 const body = Atkinson_Hyperlegible({
@@ -17,6 +18,7 @@ const body = Atkinson_Hyperlegible({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: { default: site.name, template: `%s · ${site.name}` },
   description: "Residenza socio-sanitaria per anziani a Maida (CZ).",
 };
@@ -40,6 +42,10 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body className={`${body.variable} font-sans antialiased`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(nursingHomeJsonLd(locale)) }}
+        />
         <NextIntlClientProvider>
           <a
             href="#main"

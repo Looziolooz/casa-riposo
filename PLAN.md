@@ -10,7 +10,8 @@ Stack: Next.js 15 (App Router) + Tailwind v4 + Neon/Drizzle + next-intl (it/en) 
 - [ ] Fase 3 - Contenuti delle pagine dalla scheda briefing, IT + EN
 - [ ] Fase 4 - Form: contatti/visita, candidature (CV su Vercel Blob), reclami. Server Actions + Zod + Resend + Turnstile
 - [ ] Fase 5 - Trasparenza e documenti PDF
-- [ ] Fase 6 - SEO (JSON-LD NursingHome, sitemap), accessibilita WCAG AA, privacy/cookie, Lighthouse
+- [x] SEO base: JSON-LD NursingHome, sitemap, robots (manca hreflang per pagina)
+- [ ] Fase 6 - SEO avanzata, accessibilita WCAG AA, privacy/cookie, Lighthouse
 - [ ] Fase 7 - Deploy Vercel, dominio
 - [ ] Fase 8 - Admin /admin (Auth.js): iniziative, documenti, richieste
 
