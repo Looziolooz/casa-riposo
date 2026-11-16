@@ -7,5 +7,76 @@
     "menu": "Menu", "close": "Close", "call": "Call", "skip": "Skip to content"
   },
   "footer": { "vat": "VAT" },
-  "placeholder": "Content coming soon."
+  "placeholder": "Content coming soon.",
+  "cta": { "title": "Would you like to know us better?", "text": "Call or write to us: we will explain how admission works and arrange a visit to the residence.", "button": "Contact us" },
+  "home": {
+    "eyebrow": "Care home for the elderly in Maida (CZ), Italy",
+    "title": "Care, attention and a home where you feel welcome",
+    "intro": "We are a social and healthcare residence for older people who are partially or fully dependent, or living with cognitive decline. Every day we combine qualified healthcare with hospitality services designed for well-being.",
+    "cards": [
+      { "title": "Healthcare", "text": "Medical and nursing care, rehabilitation and psychological support." },
+      { "title": "Hospitality", "text": "Personalised menus, laundry service and hairdresser." },
+      { "title": "Social activities", "text": "Activities and time together to keep interests and relationships alive." }
+    ],
+    "more": "Discover our services",
+    "qualityTitle": "Certified quality",
+    "qualityText": "We work under a UNI EN ISO 9001:2015 quality management system, with HACCP protocols and in compliance with Italian workplace safety law (Legislative Decree 81/2008).",
+    "qualityLink": "Learn more"
+  },
+  "servizi": {
+    "title": "Services",
+    "intro": "Complete care, both medical and residential, organised around the needs of each resident.",
+    "sections": [
+      { "heading": "Healthcare and rehabilitation", "items": [
+        { "title": "Medical care", "text": "Health monitoring under the responsibility of the medical director." },
+        { "title": "Nursing care", "text": "Therapies, dressings and daily checks, day and night." },
+        { "title": "Rehabilitation", "text": "Physiotherapy programmes to maintain and regain independence." },
+        { "title": "Psychological support", "text": "Listening and support for residents and their families." }
+      ] },
+      { "heading": "Hospitality and activities", "items": [
+        { "title": "Meals", "text": "Menus tailored to individual needs, served at set times." },
+        { "title": "Laundry", "text": "Care of residents' linen and clothing." },
+        { "title": "Hairdresser", "text": "An in-house service to help residents look and feel their best." },
+        { "title": "Social activities", "text": "Group activities and social moments throughout the week." }
+      ] }
+    ]
+  },
+  "personale": {
+    "title": "Our staff",
+    "intro": "A multidisciplinary team working together for the health and peace of mind of our residents.",
+    "sections": [
+      { "heading": "Our professionals", "items": [
+        { "title": "Medical director", "text": "Responsible for healthcare organisation and the quality of care." },
+        { "title": "Nurses", "text": "Manage therapies, dressings and daily health monitoring." },
+        { "title": "Physiotherapists", "text": "Lead rehabilitation and help residents stay mobile." },
+        { "title": "Psychologist", "text": "Provides emotional support to residents and guidance to families." },
+        { "title": "Educators", "text": "Plan social activities and cognitive stimulation." },
+        { "title": "Social worker", "text": "Liaises with families and local services, and handles admission paperwork." },
+        { "title": "Care assistants (OSS)", "text": "Support residents in everyday life with care and respect." }
+      ] }
+    ]
+  },
+  "qualita": {
+    "title": "Quality",
+    "intro": "Quality of care is built on clear rules, regular checks and ongoing training.",
+    "sections": [
+      { "heading": "Certifications and standards", "items": [
+        { "title": "UNI EN ISO 9001:2015", "text": "A quality management system that organises processes, audits and continuous improvement." },
+        { "title": "HACCP protocols", "text": "Food safety procedures applied throughout our catering." },
+        { "title": "Workplace safety", "text": "Organisation compliant with Legislative Decree 81/2008, protecting residents and staff." }
+      ] }
+    ],
+    "note": "Our Service Charter will soon be available as a PDF on this page."
+  },
+  "ammissione": {
+    "title": "Admission",
+    "intro": "There are two ways to be admitted. We are here to guide you through every step.",
+    "sections": [
+      { "heading": "How to apply", "items": [
+        { "title": "Through the local health authority (ASP)", "text": "The application goes through the Provincial Health Authority, which manages the waiting list for subsidised places." },
+        { "title": "Directly with the residence (private)", "text": "The application is made directly to us, and we manage the related waiting list." }
+      ] }
+    ],
+    "note": "Contact us to find out which route suits you best and which documents are needed."
+  }
 }

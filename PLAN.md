@@ -7,7 +7,7 @@ Stack: Next.js 15 (App Router) + Tailwind v4 + Neon/Drizzle + next-intl (it/en) 
 - [x] Fase 1 - Setup: Next, Tailwind, next-intl, Drizzle + Neon, schema e migrazione 0000, Node 24
 - [x] Scheletro: header con menu dalla scheda, footer, switch IT/EN, tasto chiama fisso su mobile, 13 pagine placeholder
 - [ ] Fase 2 - Direzione visiva (/motion-prompt), palette e font definitivi (ora provvisori in globals.css)
-- [ ] Fase 3 - Contenuti delle pagine dalla scheda briefing, IT + EN
+- [x] Fase 3 (parziale) - Contenuti IT+EN: home, servizi, personale, qualita, ammissione. Restano: iniziative, contatti, trasparenza, visite, lavora, reclami, privacy, cookie
 - [ ] Fase 4 - Form: contatti/visita, candidature (CV su Vercel Blob), reclami. Server Actions + Zod + Resend + Turnstile
 - [ ] Fase 5 - Trasparenza e documenti PDF
 - [x] SEO base: JSON-LD NursingHome, sitemap, robots (manca hreflang per pagina)

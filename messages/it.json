@@ -7,5 +7,76 @@
     "menu": "Menu", "close": "Chiudi", "call": "Chiama", "skip": "Vai al contenuto"
   },
   "footer": { "vat": "P.IVA" },
-  "placeholder": "Contenuto in preparazione."
+  "placeholder": "Contenuto in preparazione.",
+  "cta": { "title": "Vuoi conoscerci?", "text": "Chiamaci o scrivici: ti spieghiamo come funziona l'ingresso e organizziamo una visita della struttura.", "button": "Contattaci" },
+  "home": {
+    "eyebrow": "Residenza per anziani a Maida (CZ)",
+    "title": "Cura, attenzione e una casa in cui sentirsi accolti",
+    "intro": "Siamo una residenza socio-sanitaria per persone anziane parzialmente o totalmente non autosufficienti o con decadimento senile. Ogni giorno uniamo assistenza sanitaria qualificata e servizi alberghieri pensati per il benessere.",
+    "cards": [
+      { "title": "Assistenza sanitaria", "text": "Assistenza medica e infermieristica, riabilitazione e supporto psicologico." },
+      { "title": "Servizi alberghieri", "text": "Ristorazione con menu personalizzati, lavanderia e parrucchiere." },
+      { "title": "Animazione sociale", "text": "Attività e momenti di relazione per mantenere vivi interessi e legami." }
+    ],
+    "more": "Scopri i servizi",
+    "qualityTitle": "Qualità certificata",
+    "qualityText": "Lavoriamo secondo un sistema di gestione qualità UNI EN ISO 9001:2015, con protocolli HACCP e nel rispetto delle norme sulla sicurezza (D.Lgs. 81/2008).",
+    "qualityLink": "Approfondisci"
+  },
+  "servizi": {
+    "title": "Servizi",
+    "intro": "Un'assistenza completa, sanitaria e alberghiera, organizzata intorno ai bisogni di ogni ospite.",
+    "sections": [
+      { "heading": "Prestazioni sanitarie e riabilitative", "items": [
+        { "title": "Assistenza medica", "text": "Monitoraggio dello stato di salute sotto la responsabilità del direttore sanitario." },
+        { "title": "Assistenza infermieristica", "text": "Terapie, medicazioni e controlli quotidiani, giorno e notte." },
+        { "title": "Riabilitazione", "text": "Percorsi di fisioterapia per mantenere e recuperare l'autonomia." },
+        { "title": "Supporto psicologico", "text": "Ascolto e sostegno per gli ospiti e per le loro famiglie." }
+      ] },
+      { "heading": "Servizi alberghieri e animazione", "items": [
+        { "title": "Ristorazione", "text": "Menu personalizzati secondo le esigenze di ciascuno, con orari strutturati." },
+        { "title": "Lavanderia", "text": "Cura della biancheria e degli indumenti degli ospiti." },
+        { "title": "Parrucchiere", "text": "Un servizio interno per sentirsi in ordine e a proprio agio." },
+        { "title": "Animazione sociale", "text": "Attività di gruppo e momenti di socialità durante la settimana." }
+      ] }
+    ]
+  },
+  "personale": {
+    "title": "Il personale",
+    "intro": "Un'équipe multidisciplinare che lavora insieme per la salute e la serenità degli ospiti.",
+    "sections": [
+      { "heading": "Le figure professionali", "items": [
+        { "title": "Direttore sanitario", "text": "È responsabile dell'organizzazione sanitaria e della qualità delle cure." },
+        { "title": "Infermieri", "text": "Gestiscono terapie, medicazioni e il monitoraggio quotidiano della salute." },
+        { "title": "Fisioterapisti", "text": "Seguono i percorsi di riabilitazione e il mantenimento della mobilità." },
+        { "title": "Psicologo", "text": "Offre sostegno emotivo agli ospiti e accompagna le famiglie." },
+        { "title": "Educatori", "text": "Progettano le attività di animazione e di stimolazione cognitiva." },
+        { "title": "Assistente sociale", "text": "Cura i rapporti con le famiglie, i servizi del territorio e le pratiche di ingresso." },
+        { "title": "Operatori socio-sanitari (OSS)", "text": "Assistono gli ospiti nella vita di tutti i giorni, con attenzione e rispetto." }
+      ] }
+    ]
+  },
+  "qualita": {
+    "title": "La qualità",
+    "intro": "La qualità dell'assistenza si costruisce con regole chiare, controlli e formazione continua.",
+    "sections": [
+      { "heading": "Certificazioni e standard", "items": [
+        { "title": "UNI EN ISO 9001:2015", "text": "Un sistema di gestione qualità che organizza processi, verifiche e miglioramento continuo." },
+        { "title": "Protocolli HACCP", "text": "Procedure di sicurezza alimentare applicate in tutta la ristorazione." },
+        { "title": "Sicurezza sul lavoro", "text": "Organizzazione conforme al D.Lgs. 81/2008, a tutela di ospiti e operatori." }
+      ] }
+    ],
+    "note": "La Carta dei Servizi sarà presto disponibile in PDF su questa pagina."
+  },
+  "ammissione": {
+    "title": "Ammissione",
+    "intro": "L'ingresso in struttura può avvenire in due modi. Siamo a disposizione per accompagnarti in ogni passaggio.",
+    "sections": [
+      { "heading": "Modalità di accesso", "items": [
+        { "title": "Tramite ASP (in convenzione)", "text": "La richiesta passa dall'Azienda Sanitaria Provinciale, che gestisce la lista d'attesa per i posti convenzionati." },
+        { "title": "Direttamente con la struttura (privato)", "text": "La richiesta si presenta direttamente a noi, che gestiamo la relativa lista d'attesa." }
+      ] }
+    ],
+    "note": "Per sapere quale percorso è più adatto e quali documenti servono, contattaci."
+  }
 }

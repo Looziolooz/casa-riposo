@@ -1,6 +1,11 @@
-import { PlaceholderPage } from "@/components/placeholder-page";
+import { ContentPage, contentMetadata } from "@/components/content-page";
 
-export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
-  return <PlaceholderPage locale={locale} titleKey="ammissione" />;
+type Props = { params: Promise<{ locale: string }> };
+
+export async function generateMetadata({ params }: Props) {
+  return contentMetadata((await params).locale, "ammissione");
+}
+
+export default async function Page({ params }: Props) {
+  return <ContentPage locale={(await params).locale} ns="ammissione" />;
 }
