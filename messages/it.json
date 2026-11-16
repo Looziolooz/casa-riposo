@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "home": "Home", "servizi": "Servizi", "personale": "Il personale",
+    "qualita": "La qualità", "iniziative": "Le iniziative", "contatti": "Contatti",
+    "trasparenza": "Trasparenza", "ammissione": "Ammissione", "visite": "Orari di visita",
+    "lavora": "Lavora con noi", "reclami": "Reclami", "privacy": "Privacy", "cookie": "Cookie",
+    "menu": "Menu", "close": "Chiudi", "call": "Chiama", "skip": "Vai al contenuto"
+  },
+  "footer": { "vat": "P.IVA" },
+  "placeholder": "Contenuto in preparazione."
+}

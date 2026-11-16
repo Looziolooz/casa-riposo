@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Palette provvisoria: da sostituire con l'identita visiva del cliente. */
+@theme {
+  --color-brand: #2f5d62;
+  --color-brand-dark: #1f4044;
+  --color-surface: #faf8f4;
+  --color-ink: #1f2328;
+  --color-muted: #5b6168;
+  --font-sans: var(--font-body), system-ui, sans-serif;
+}
+
+html { font-size: 112.5%; } /* 18px: pubblico anziano */
+body { background: var(--color-surface); color: var(--color-ink); }
+:focus-visible { outline: 3px solid var(--color-brand); outline-offset: 2px; }

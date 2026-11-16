@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "home": "Home", "servizi": "Services", "personale": "Our staff",
+    "qualita": "Quality", "iniziative": "Activities", "contatti": "Contact",
+    "trasparenza": "Transparency", "ammissione": "Admission", "visite": "Visiting hours",
+    "lavora": "Careers", "reclami": "Complaints", "privacy": "Privacy", "cookie": "Cookies",
+    "menu": "Menu", "close": "Close", "call": "Call", "skip": "Skip to content"
+  },
+  "footer": { "vat": "VAT" },
+  "placeholder": "Content coming soon."
+}
